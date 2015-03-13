@@ -1,0 +1,1 @@
+Using the new Java 7 Watcher Service, it will scan the contents of a directory and log every movement on screen.
